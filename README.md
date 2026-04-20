@@ -1,2 +1,3 @@
-# xdtool
-XDTool is a gamer/normal use optimization tool based on Python, C and .bat's 
+# XDTool
+XDTool is a gamer and system optimization tool based on Python, C and .bat scripts
+
